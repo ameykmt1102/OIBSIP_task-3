@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ameyk
+ *
+ */
+module ATMinterface {
+}
