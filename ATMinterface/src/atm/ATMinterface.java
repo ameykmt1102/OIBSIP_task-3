@@ -3,10 +3,8 @@ import java.util.*;
 
 /*This program consists of the following Operations:
  * Also includes registration which will include Full account holder name , Account Number , userid creation, userpin creation
- *includes Userid and Userpin..userid includes string and check validation also consists of forgot pin which will give u the option to create new pin if u answer security details
 
  *Balance will be displayed after every Operation
- *
  *1)Transaction History
  *2)Withdraw
  *3)Deposit
